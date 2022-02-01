@@ -1,1 +1,1 @@
-# odin-recipes
+This is a plain simple website that will show and link basic recipes.
